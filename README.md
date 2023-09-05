@@ -1,12 +1,12 @@
-# 1. Markdown
+# Markdown
 
-## 1.1 Comment
+## 1. Comment
 마크다운 (Markdown)은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다.   
 온갖 태그로 범벅된 HTML 문서 등과 달리, 읽기도 쓰기도 쉬운 문서 양식을 지향한다.   
    
 흔히 볼 수 있는 문서(파일명)은 "README.md", 파일의 확장자는 .md 또는 .markdown을 쓴다.
 
-## 1.2 Document
+## 2. Document
 | Title | Document | Explanation |
 | :--- | :--- | :--- |
 | Headers | [headers.md](./headers.md) | Header 작성법 |
